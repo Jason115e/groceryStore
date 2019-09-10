@@ -2,19 +2,6 @@ const storeName = 'Jacque\'s';
 document.title = `${storeName} Grocery Store`;
 
 const NAV_LIST = [
-<<<<<<< HEAD
-
-{
-
-name: 'name',
-link: 'index.html'
-
-}
-
-
-
-]
-=======
     {
         name: 'home',
         link: 'index.html'
@@ -43,4 +30,3 @@ NAV_LIST.forEach( function (list)  {
 });
 
 
->>>>>>> 647593b41b63fdc295ea9b2227025bb6d9057b2c

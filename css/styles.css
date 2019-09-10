@@ -105,40 +105,6 @@ a, a:hover
     color: var(--accent_color);
 }
 
-body {
-    background-color: #70DA40;
-    font-family: var(--main_font);
-    top: 0;
-    margin: 0;
-    padding: 0;
-}
-header {
-    height: 90vh;
-    width: 100%;
-    background-image: url('../img/hero_1.jpeg');
-    background-size: cover;
-    display: grid;
-    justify-content: center;
-    align-items: center;
-}
-
-main#content {
-    height: 100vh;
-    width: 80%;
-    margin: auto;
-    background-color: #fff;
-}
-h1 {
-    color: #55C225;
-    font-size: 7em;
-    margin-top: -2em;
-    font-family: var(--heading_font);
-}
-ul,
-li {
-    list-style: none;
-}
-
 #iconsCredit {
     font-size: 0.5em;
     font-style: italic;
@@ -199,14 +165,6 @@ i {
     text-align: center;
 }
 
-<<<<<<< HEAD
-.center_center {
-    display: grid;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-=======
 .card h2 {
     font-family: var(--special_font);
     text-transform: uppercase;
@@ -231,4 +189,3 @@ i {
         box-shadow: 0 50px 50px rgba(0, 0, 0, 0.1);
     }
 } 
->>>>>>> 647593b41b63fdc295ea9b2227025bb6d9057b2c
